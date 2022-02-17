@@ -134,6 +134,85 @@ SECCIÓN 15–10 Localización de fallas
 
 4. Resolución Unidad 16
 
+PARTE 1: CIRCUITOS EN SERIE
+SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie
+
+1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
+
+SECCIÓN 16–2 Impedancia de circuitos RL en serie
+
+3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
+
+5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:        
+ 
+                  (a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2 kHz
+
+7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie
+
+SECCIÓN 16–3 Análisis de circuitos RL en serie
+
+9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57
+
+11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar. 
+
+13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye θ?
+
+15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
+                                        
+                     (a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
+                     
+17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+
+                      (a) 1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz                    
+
+PARTE 2 CIRCUITOS EN PARALELO
+SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
+
+19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+SECCIÓN 16–5 Análisis de circuitos RL en paralelo
+
+23. Determine las siguientes cantidades en la figura 16-65:
+
+                    (a) Z (b) IR (c) IL (d) ITOT (e) θ
+                    
+25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie. 
+
+PARTE 3: CIRCUITOS EN SERIE-PARALELO
+SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
+
+27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
+
+29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
+
+31. Para el circuito de la figura 16-70, determine lo siguiente:
+
+          (a) ITOT (b) VL1 (c) VAB
+          
+33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.  
+
+35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
+
+PARTE 4: TEMAS ESPECIALES
+SECCIÓN 16–7 Potencia en circuitos RL
+
+37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
+
+39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
+
+SECCIÓN 16–8 Aplicaciones básicas
+
+41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
+
+43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz
+
+SECCIÓN 16–9 Localización de fallas
+
+45. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
+                              
+                 (a) L1 abierto (b) L2 abierto (c) R1 abierto (d) un cortocircuito a través de R2
 
 
 
