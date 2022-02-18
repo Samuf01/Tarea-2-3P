@@ -19,6 +19,9 @@ Estudiar los circuitos mediante el análisis y la resolución de la teoría de c
 ![image](https://user-images.githubusercontent.com/94079321/154741317-9af2d003-f1e8-459c-94d0-2b047d06ae4c.png)
 ![image](https://user-images.githubusercontent.com/94079321/154741346-69cd0ccd-615c-4679-9a2a-fef272aa78a6.png)
 
+![image](https://user-images.githubusercontent.com/94079321/154743068-081b8722-3341-4215-b704-8c47000c2322.png)
+
+
 3. Resolución Unidad 15
 
 PARTE 1: CIRCUITOS EN SERIE
