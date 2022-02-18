@@ -406,6 +406,8 @@ SECCIÓN 16–9 Localización de fallas
 
 6. Bibliografía
 
+Floyd, T. (2007). Principios de circuitos eléctricos. México: Pearson.
+
 7. Vídeo
 
 https://youtu.be/zZoivW-JkMM
