@@ -1,4 +1,4 @@
-.# INFORME TAREA 2 TERCER PARCIAL
+# INFORME TAREA 2 TERCER PARCIAL
 
 Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
