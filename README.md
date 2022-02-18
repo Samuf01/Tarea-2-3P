@@ -18,43 +18,68 @@ SECCIÓN 15–1 El sistema de los números complejos
 
 1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
 
+
+
 3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:
 
           (a) 3, j5   (b) -7, j1    (c) -10, -j10
-          
+  
+  
+  
 5. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 90° de los puntos del problema 3.
 
+
+
 7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
+
+
 
 9. Convierta cada uno de los siguientes números polares a forma rectangular:
 
           (a) 1000∠ -50°    (b) 15∠160°   (c) 25∠ -135°     (d) 3∠180°
 
+
+
 11. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8. 
 
+
+
 13. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83. 
+
+
 
 15. Realice las siguientes sustracciones: 
 
           (a) (2.5 + j1.2) - (1.4 + j0.5)              (b) (-45 - j23) - (36 + j12)
           (c) (8 - j4) - 3∠25°                         (c) 48∠135° - 33∠ -60°
-          
+ 
+ 
+ 
 17. Realice las siguientes divisiones:
 
          (a) 8∠50°/2.5∠39°    (b) 63∠ -91°/9∠10°    (c) 28∠30°/14 - j12   (d) 40 - j30/16 + j8       
-         
+ 
+ 
+ 
+ 
 SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie
 
 19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
+
+
 
 SECCIÓN 15–3 Impedancia de circuitos RC en serie
 
 21. Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
 
+
+
 23. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:
 
         (a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2.5 kHz
-        
+ 
+ 
+ 
 25. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
 
           (a) Z = 33 Ω - j50 Ω                (b) Z = 300∠ -25° Ω 
