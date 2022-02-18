@@ -314,6 +314,8 @@ SECCIÓN 16–3 Análisis de circuitos RL en serie
 
                       (a) 1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz                    
 
+![image](https://user-images.githubusercontent.com/94079321/154740681-e81afeed-9aa4-4da3-badf-7c16f817aeb8.png)
+
 PARTE 2 CIRCUITOS EN PARALELO
 SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
 
@@ -321,9 +323,13 @@ SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/154701825-d2ff6443-dce3-427e-9cd7-a4849bb5a42f.png)
 
+![image](https://user-images.githubusercontent.com/94079321/154740728-393a5708-330c-4da4-ac28-4797de210a05.png)
+
 21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
 
 ![image](https://user-images.githubusercontent.com/94079321/154701829-57116218-bb89-4c09-84ce-f0d69a8a44e0.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154740782-c685d81f-005b-4bf9-99b1-6b8ce0787b0f.png)
 
 SECCIÓN 16–5 Análisis de circuitos RL en paralelo
 
@@ -331,10 +337,14 @@ SECCIÓN 16–5 Análisis de circuitos RL en paralelo
 
 
                     (a) Z (b) IR (c) IL (d) ITOT (e) θ
-                    
+
+![image](https://user-images.githubusercontent.com/94079321/154740837-637f4a71-7320-421a-a857-791ba20b3443.png)
+
 25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie. 
 
 ![image](https://user-images.githubusercontent.com/94079321/154701933-0258b88a-e2d4-42f2-b5b1-dbdd2fd8ce88.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154740871-e63317ea-c33f-4a5a-b0a4-abfac9122536.png)
 
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
@@ -343,16 +353,22 @@ SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/154701973-7b69d798-477b-4465-acfc-37bd97ff4f06.png)
 
+![image](https://user-images.githubusercontent.com/94079321/154740897-1e416c3c-508f-44b7-88a1-dfbf90b55cad.png)
+
 29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
 
 ![image](https://user-images.githubusercontent.com/94079321/154701990-405ad945-4022-44da-87ca-e508ccf43fa3.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154740933-b6224cfc-db04-40ac-967c-fb6b503ebb93.png)
 
 31. Para el circuito de la figura 16-70, determine lo siguiente:
 
 ![image](https://user-images.githubusercontent.com/94079321/154702030-9d2f675b-a4f6-4afd-8e56-e04eb42cfdea.png)
 
           (a) ITOT (b) VL1 (c) VAB
-          
+
+![image](https://user-images.githubusercontent.com/94079321/154740959-29fb927d-c727-486d-a5a7-c7b97b1b6318.png)
+
 33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.  
 
 ![image](https://user-images.githubusercontent.com/94079321/154702069-75db76d4-fdce-4d86-9cc3-31dcfc9d31d4.png)
