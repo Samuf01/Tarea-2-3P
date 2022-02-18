@@ -213,25 +213,41 @@ SECCIÓN 16–2 Impedancia de circuitos RL en serie
 
 3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
 
+![image](https://user-images.githubusercontent.com/94079321/154700588-09493119-52be-4f29-8487-731a1e889e9d.png)
+
 5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:        
- 
+
+![image](https://user-images.githubusercontent.com/94079321/154700672-53267a47-c834-4b7a-a2f3-8f74ac85c42d.png)
+
                   (a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2 kHz
 
 7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie
+
+![image](https://user-images.githubusercontent.com/94079321/154700726-3e485ed0-3790-45f6-b175-a7035e581872.png)
 
 SECCIÓN 16–3 Análisis de circuitos RL en serie
 
 9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57
 
+![image](https://user-images.githubusercontent.com/94079321/154700742-993d5138-9b29-4737-b0be-94c33894a28a.png)
+
 11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar. 
+
+![image](https://user-images.githubusercontent.com/94079321/154700815-29319d64-2ba4-4fae-91f8-64c277fcfc27.png)
 
 13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye θ?
 
+![image](https://user-images.githubusercontent.com/94079321/154700875-da17d805-31a6-4826-a7c1-6db618f91e82.png)
+
 15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
-                                        
+
+![image](https://user-images.githubusercontent.com/94079321/154701735-515706d9-1020-444a-a28e-392099d9d84e.png)
+
                      (a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
                      
 17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/94079321/154701776-c9edb697-a659-4c97-a52d-1c90f5491f61.png)
 
                       (a) 1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz                    
 
@@ -240,28 +256,43 @@ SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
 
 19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
 
+![image](https://user-images.githubusercontent.com/94079321/154701825-d2ff6443-dce3-427e-9cd7-a4849bb5a42f.png)
+
 21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/94079321/154701829-57116218-bb89-4c09-84ce-f0d69a8a44e0.png)
 
 SECCIÓN 16–5 Análisis de circuitos RL en paralelo
 
 23. Determine las siguientes cantidades en la figura 16-65:
 
+
                     (a) Z (b) IR (c) IL (d) ITOT (e) θ
                     
 25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie. 
+
+![image](https://user-images.githubusercontent.com/94079321/154701933-0258b88a-e2d4-42f2-b5b1-dbdd2fd8ce88.png)
 
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
 
 27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
 
+![image](https://user-images.githubusercontent.com/94079321/154701973-7b69d798-477b-4465-acfc-37bd97ff4f06.png)
+
 29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
 
+![image](https://user-images.githubusercontent.com/94079321/154701990-405ad945-4022-44da-87ca-e508ccf43fa3.png)
+
 31. Para el circuito de la figura 16-70, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/94079321/154702030-9d2f675b-a4f6-4afd-8e56-e04eb42cfdea.png)
 
           (a) ITOT (b) VL1 (c) VAB
           
 33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.  
+
+![image](https://user-images.githubusercontent.com/94079321/154702069-75db76d4-fdce-4d86-9cc3-31dcfc9d31d4.png)
 
 35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
 
@@ -270,20 +301,38 @@ SECCIÓN 16–7 Potencia en circuitos RL
 
 37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
 
+![image](https://user-images.githubusercontent.com/94079321/154702135-b83cf928-ee8b-4062-ac2a-7f15e8139ce7.png)
+
 39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
+
+![image](https://user-images.githubusercontent.com/94079321/154702173-1a3d9fa0-40b6-4270-a4d7-156eaf580ee4.png)
 
 SECCIÓN 16–8 Aplicaciones básicas
 
 41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
 
+![image](https://user-images.githubusercontent.com/94079321/154702217-c0680590-4c70-4a51-948f-f8584987c87f.png)
+
 43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz
+
+![image](https://user-images.githubusercontent.com/94079321/154702249-63d90929-344f-4006-ac83-a08618617fd7.png)
 
 SECCIÓN 16–9 Localización de fallas
 
 45. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
-                              
-                 (a) L1 abierto (b) L2 abierto (c) R1 abierto (d) un cortocircuito a través de R2
+    
+    
+(a) L1 abierto y (b) L2 abierto 
+                 
+  ![image](https://user-images.githubusercontent.com/94079321/154702344-42bcf634-81b3-4eaa-b16b-54b94c7cc74a.png)
 
+(c) R1 abierto 
+                 
+ ![image](https://user-images.githubusercontent.com/94079321/154702384-2a05cd26-b3cb-4914-9d77-752601c78928.png)
+
+(d) un cortocircuito a través de R2
+
+![image](https://user-images.githubusercontent.com/94079321/154702437-70d677d2-15b4-4b47-81a0-a2519d674d77.png)
 
 
 5. Conclusiones
