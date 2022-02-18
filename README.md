@@ -15,6 +15,10 @@ Estudiar los circuitos mediante el análisis y la resolución de la teoría de c
 
 2. Marco Teórico
 
+![image](https://user-images.githubusercontent.com/94079321/154741305-9af8e8dd-0398-42dc-be23-434f8265020f.png)
+![image](https://user-images.githubusercontent.com/94079321/154741317-9af2d003-f1e8-459c-94d0-2b047d06ae4c.png)
+![image](https://user-images.githubusercontent.com/94079321/154741346-69cd0ccd-615c-4679-9a2a-fef272aa78a6.png)
+
 3. Resolución Unidad 15
 
 PARTE 1: CIRCUITOS EN SERIE
