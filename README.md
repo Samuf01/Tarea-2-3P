@@ -294,7 +294,11 @@ SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/154702069-75db76d4-fdce-4d86-9cc3-31dcfc9d31d4.png)
 
+![image](https://user-images.githubusercontent.com/94079321/154705064-24cd4ba9-92d2-469e-8be0-32e155319f99.png)
+
 35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
+
+![image](https://user-images.githubusercontent.com/94079321/154706010-a5bb1cd5-13fc-41f9-95cf-512910455de8.png)
 
 PARTE 4: TEMAS ESPECIALES
 SECCIÓN 16–7 Potencia en circuitos RL
@@ -303,9 +307,13 @@ SECCIÓN 16–7 Potencia en circuitos RL
 
 ![image](https://user-images.githubusercontent.com/94079321/154702135-b83cf928-ee8b-4062-ac2a-7f15e8139ce7.png)
 
+![image](https://user-images.githubusercontent.com/94079321/154705952-cbfe0dd5-971d-42fa-82db-7e3299b0be77.png)
+
 39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
 
 ![image](https://user-images.githubusercontent.com/94079321/154702173-1a3d9fa0-40b6-4270-a4d7-156eaf580ee4.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154706059-7bf6d509-3672-44e1-8727-69a0faa435dd.png)
 
 SECCIÓN 16–8 Aplicaciones básicas
 
@@ -313,13 +321,15 @@ SECCIÓN 16–8 Aplicaciones básicas
 
 ![image](https://user-images.githubusercontent.com/94079321/154702217-c0680590-4c70-4a51-948f-f8584987c87f.png)
 
-43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz
+![image](https://user-images.githubusercontent.com/94079321/154706130-78e32abe-feb5-4ed8-8684-88b60db6e8da.png)
 
-![image](https://user-images.githubusercontent.com/94079321/154702249-63d90929-344f-4006-ac83-a08618617fd7.png)
+![image](https://user-images.githubusercontent.com/94079321/154706171-95f106a2-fa10-4ab0-bafb-3931b4cc6e48.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154706205-534fa8fc-8a17-4b3a-aa1c-11a92bcc713c.png)
 
 SECCIÓN 16–9 Localización de fallas
 
-45. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
+43. Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
     
     
 (a) L1 abierto y (b) L2 abierto 
@@ -334,6 +344,9 @@ SECCIÓN 16–9 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/94079321/154702437-70d677d2-15b4-4b47-81a0-a2519d674d77.png)
 
+![image](https://user-images.githubusercontent.com/94079321/154706265-9cda5bbd-b0fa-4982-88d2-8c81a6d469ad.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154706310-fdf2d995-fd84-46ac-a84e-59ee73127df1.png)
 
 5. Conclusiones
 
