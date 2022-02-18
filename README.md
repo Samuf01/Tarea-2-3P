@@ -18,36 +18,56 @@ SECCIÓN 15–1 El sistema de los números complejos
 
 1. ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
 
+![image](https://user-images.githubusercontent.com/94079321/154727473-9388ba95-5269-41ec-b6d6-366109357232.png)
+
 3. Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:
 
           (a) 3, j5   (b) -7, j1    (c) -10, -j10
-          
+
+![image](https://user-images.githubusercontent.com/94079321/154727517-bf794160-ad37-444a-b0e6-f38e2492a86a.png)
+
 5. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 90° de los puntos del problema 3.
 
+![image](https://user-images.githubusercontent.com/94079321/154727560-bab2d789-878d-444a-96be-24120a6d780f.png)
+
 7. ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
+
+![image](https://user-images.githubusercontent.com/94079321/154727602-57b95da5-3d67-46d3-b2c8-39b36483eaba.png)
 
 9. Convierta cada uno de los siguientes números polares a forma rectangular:
 
           (a) 1000∠ -50°    (b) 15∠160°   (c) 25∠ -135°     (d) 3∠180°
 
+![image](https://user-images.githubusercontent.com/94079321/154727636-ece75c18-da35-4a86-a3fd-b72e6eeef206.png)
+
 11. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8. 
+
+![image](https://user-images.githubusercontent.com/94079321/154727664-51fcebb8-864c-4560-9c32-8e491891ce09.png)
 
 13. Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83. 
 
 ![image](https://user-images.githubusercontent.com/94079321/154688429-b80764de-1b81-49e9-9e52-f78c8ec35ea8.png)
 
+![image](https://user-images.githubusercontent.com/94079321/154727712-934d2bd2-ecdc-4ed3-92bf-6093182b6351.png)
+
 15. Realice las siguientes sustracciones: 
 
           (a) (2.5 + j1.2) - (1.4 + j0.5)              (b) (-45 - j23) - (36 + j12)
           (c) (8 - j4) - 3∠25°                         (c) 48∠135° - 33∠ -60°
-          
+ 
+ ![image](https://user-images.githubusercontent.com/94079321/154727759-e33f558f-3dd2-420b-bf05-a93b41685c4c.png)
+
 17. Realice las siguientes divisiones:
 
          (a) 8∠50°/2.5∠39°    (b) 63∠ -91°/9∠10°    (c) 28∠30°/14 - j12   (d) 40 - j30/16 + j8       
          
+  ![image](https://user-images.githubusercontent.com/94079321/154727804-c4ed5d8e-7759-471b-83d5-91a875abb15b.png)
+
 SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie
 
 19. Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
+
+![image](https://user-images.githubusercontent.com/94079321/154727862-c2434de0-071e-4ce2-8904-a42fad2f9d4b.png)
 
 SECCIÓN 15–3 Impedancia de circuitos RC en serie
 
@@ -55,12 +75,20 @@ SECCIÓN 15–3 Impedancia de circuitos RC en serie
 
 ![image](https://user-images.githubusercontent.com/94079321/154688471-1a314ec1-6c52-48a5-a943-b8cc54d63a31.png)
 
+![image](https://user-images.githubusercontent.com/94079321/154727905-537b8698-d47e-490f-891e-3e23906ad4e6.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154728290-095a7a08-08c6-4206-85ed-0552f310f900.png)
+
 23. Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:
 
 ![image](https://user-images.githubusercontent.com/94079321/154688510-fd084262-1858-461d-80ce-164cd4cc1b18.png)
 
         (a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2.5 kHz
-        
+ 
+![image](https://user-images.githubusercontent.com/94079321/154728344-31050ee7-4394-462b-9a88-3f02a9f54349.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154728379-168d73f1-1c09-4b8e-bf56-190485ea9f70.png)
+
 25. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
 
           (a) Z = 33 Ω - j50 Ω                (b) Z = 300∠ -25° Ω 
