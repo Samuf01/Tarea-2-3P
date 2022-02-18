@@ -242,11 +242,15 @@ SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie
 
 1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
 
+![image](https://user-images.githubusercontent.com/94079321/154729359-0b4e5e7f-6346-4f0b-a678-2ba10a5f1097.png)
+
 SECCIÓN 16–2 Impedancia de circuitos RL en serie
 
 3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
 
 ![image](https://user-images.githubusercontent.com/94079321/154700588-09493119-52be-4f29-8487-731a1e889e9d.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154729390-4d9fb79b-7f88-4b26-8715-4c491f0ec834.png)
 
 5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:        
 
@@ -254,9 +258,13 @@ SECCIÓN 16–2 Impedancia de circuitos RL en serie
 
                   (a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2 kHz
 
+![image](https://user-images.githubusercontent.com/94079321/154729496-f6244021-3d2b-4639-9f23-9393aeb2c366.png)
+
 7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie
 
 ![image](https://user-images.githubusercontent.com/94079321/154700726-3e485ed0-3790-45f6-b175-a7035e581872.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154729519-7e2f9eb3-bc16-488e-906b-e84824c1538a.png)
 
 SECCIÓN 16–3 Análisis de circuitos RL en serie
 
@@ -264,13 +272,23 @@ SECCIÓN 16–3 Análisis de circuitos RL en serie
 
 ![image](https://user-images.githubusercontent.com/94079321/154700742-993d5138-9b29-4737-b0be-94c33894a28a.png)
 
+![image](https://user-images.githubusercontent.com/94079321/154729545-5ecaac06-f394-45a5-9492-96082cc08460.png)
+
 11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar. 
 
 ![image](https://user-images.githubusercontent.com/94079321/154700815-29319d64-2ba4-4fae-91f8-64c277fcfc27.png)
 
+![image](https://user-images.githubusercontent.com/94079321/154729583-1c1b962a-c8b2-4bd8-9327-42693810db02.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154729616-d1362ced-afe2-4fc9-b00e-9ec56ce4fb43.png)
+
 13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye θ?
 
 ![image](https://user-images.githubusercontent.com/94079321/154700875-da17d805-31a6-4826-a7c1-6db618f91e82.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154729646-b9f79417-bc89-444d-bcc2-cb33ea5a54e2.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154729686-a6874edd-59bf-481b-b1e7-b75301218dbc.png)
 
 15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
 
@@ -382,6 +400,9 @@ SECCIÓN 16–9 Localización de fallas
 ![image](https://user-images.githubusercontent.com/94079321/154706310-fdf2d995-fd84-46ac-a84e-59ee73127df1.png)
 
 5. Conclusiones
+
+- Mediante los ejercicios planteados podemos demostrar que para la resolución de circuitos RL Debemos aplicar lo que nosotros hemos conocido como números imaginarios además de expresar las respectivas impedancias de forma polar
+- Es importante mantener en pie las fórmulas planteadas para así que se haga más fácil la resolución de circuitos mediante la aplicación de la teoría de temas como los números imaginarios la inductancia y sus ramas
 
 6. Bibliografía
 
