@@ -1,4 +1,4 @@
-# INFORME TAREA 2 TERCER PARCIAL
+.# INFORME TAREA 2 TERCER PARCIAL
 
 Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
@@ -99,15 +99,21 @@ SECCIÓN 15–3 Impedancia de circuitos RC en serie
           (a) Z = 33 Ω - j50 Ω                (b) Z = 300∠ -25° Ω 
           (c) Z = 1.8∠ -67.2° kΩ              (c) Z = 789∠ -45° Ω 
 
+![image](https://user-images.githubusercontent.com/94079321/154739720-33d9b345-6aa3-40a6-891c-1b74a4292cf5.png)
+
 SECCIÓN 15–4 Análisis de circuitos RC en serie
 
 27. Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar
 
 ![image](https://user-images.githubusercontent.com/94079321/154688548-205db029-d3d9-47f1-ac9c-574846d913f8.png)
 
+![image](https://user-images.githubusercontent.com/94079321/154739749-aff7d132-1a15-45fa-b1e8-16cfe00a7aee.png)
+
 29. Repita el problema 28 para el circuito de la figura 15-86, con f = 5 kHz. 
 
 ![image](https://user-images.githubusercontent.com/94079321/154688510-fd084262-1858-461d-80ce-164cd4cc1b18.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154739793-95029dd4-46b3-41d4-841f-eb64dcc5e707.png)
 
 31. Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
 
@@ -115,21 +121,20 @@ SECCIÓN 15–4 Análisis de circuitos RC en serie
 
                 (a) Z (b) (c) (d) V Itot VR C
 
+![image](https://user-images.githubusercontent.com/94079321/154740029-5e5a1ad7-6491-4f35-b9f4-d7f66e2ca00e.png)
+
 33. Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90 para satisfacer los siguientes requerimientos: Preal = 400 W y un factor de potencia de adelanto (Itot aparece adelantada con respecto a Vs).
 
 ![image](https://user-images.githubusercontent.com/94079321/154688659-d348ffad-d993-4aa8-8e0a-4183af701afe.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154740057-a5c718c7-6b42-4f77-94eb-b35ff59ca3fc.png)
 
 35. El circuito de retraso de la figura 15-91 también actúa como filtro pasabajas. Trace una curva de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz
 
 ![image](https://user-images.githubusercontent.com/94079321/154688678-ff49da5c-0852-4810-97dd-77a5edd2a5af.png)
 
-37. Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz. 
+![image](https://user-images.githubusercontent.com/94079321/154740107-13862612-a268-4719-8feb-b13af50c810c.png)
 
-![image](https://user-images.githubusercontent.com/94079321/154688717-abe3198f-59d8-4e61-ab79-d29c1fae1337.png)
-
-39. Repita el problema 38 para el circuito de la figura 15-92. Vs = 10 V rms y f = 1 kHz.
-
-![image](https://user-images.githubusercontent.com/94079321/154688740-7e949b60-a74d-457f-9c26-f14df693c1ee.png)
 
 PARTE 2: CIRCUITOS EN PARALELO
 
@@ -139,11 +144,15 @@ SECCIÓN 15–5 Impedancia y admitancia de circuitos RC en paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/154688775-0e21c80f-39b9-4406-a876-b3884696376f.png)
 
+![image](https://user-images.githubusercontent.com/94079321/154740276-9dc2b10e-5c02-467e-a5d1-3f7b0cba7a63.png)
+
 SECCIÓN 15–6 Análisis de circuitos RC en paralelo
 
 43. Para el circuito de la figura 15-95, encuentre todas las corrientes y los voltajes en forma polar.
 
 ![image](https://user-images.githubusercontent.com/94079321/154688796-fd25f61f-33fd-48a6-a9e0-2febc4e0deec.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154740465-fa2d4abe-8238-48ea-9ead-b5991da03b1f.png)
 
 45. Para el circuito de la figura 15-97, determine lo siguiente:
 
@@ -151,10 +160,13 @@ SECCIÓN 15–6 Análisis de circuitos RC en paralelo
 
         (a) Z (b) (c) (d) (e) IR IC(tot) Itot u
         
-        
+![image](https://user-images.githubusercontent.com/94079321/154740493-dc935e5f-7d19-40f4-84ad-c7d295ba8c0f.png)
+ 
 47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
 
 ![image](https://user-images.githubusercontent.com/94079321/154688872-627aa508-b297-471c-b6e7-5117d1dcfbc2.png)
+
+![image](https://user-images.githubusercontent.com/94079321/154740535-1474eefb-e1ee-46c7-8ed8-dab07de1b775.png)
 
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo
