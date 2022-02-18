@@ -6,7 +6,12 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 1.1. Objetivo General
 
+Estudiar los circuitos mediante el análisis y la resolución de la teoría de circuitos RC y RL, además de desarrollarlo mediante la aplicación de números imaginarios, reactancia, inductancia y circuitos representados.
+
 1.2 Objetivo Especifico
+
+- Estudiar mediante la resolución de problemas la aplicación de números imaginarios en la resolución de ejercicios de circuitos.
+- Analizar los distintos tipos de circuitos: RC y RL y su resolución
 
 2. Marco Teórico
 
@@ -381,3 +386,5 @@ SECCIÓN 16–9 Localización de fallas
 6. Bibliografía
 
 7. Vídeo
+
+https://youtu.be/zZoivW-JkMM
